@@ -1,1 +1,1 @@
-echo "The pre-commit hook is in use."
+echo "The pre-commit hook is in use. Even on another computer. And after setting the hooks path value."
