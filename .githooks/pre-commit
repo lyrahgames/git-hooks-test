@@ -1,1 +1,1 @@
-echo "pre-commit hook is in use"
+echo "The pre-commit hook is in use."
